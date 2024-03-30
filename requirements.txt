@@ -1,0 +1,8 @@
+opendatasets
+pandas
+torch
+torchvision
+numba 
+numpy
+imgaug
+-U scikit-learn scipy matplotlib
